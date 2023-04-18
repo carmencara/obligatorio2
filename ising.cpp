@@ -1,6 +1,6 @@
 //---------------------------------------------------------------------
 //                                                                    |
-//           ALGORITMO DE METROPOLIS PARA EL MODELO DE ISING          |
+//           ALGORITMO DE METROPOLIS PARA EL MODELO DE ISING prueba          |
 //                                                                    |
 //  Objetivo: realizar el programa que simula el Modelo de Ising      |
 //  con el Método de Monte Carlo. Mostrar su evolución por pantalla   |
